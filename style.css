@@ -1,6 +1,6 @@
 :root{
-    --branco-principal: #FFFFFF;
-    --cinza-secundario: #C0C0C0;
+    --branco-principal: hsl(0, 0%, 100%);
+    --cinza-secundario: hwb(0 75% 25%)5% 25;
     --botao-rosa: #fdade0;
     --cor-de-fundo: #00030C;
     --font-principal: 'inter';
@@ -21,7 +21,7 @@ body {
 }
 
 .principal {
-    background-image: url("Design-sem-nome.png");
+    background-image:url(Design\ sem\ nome.png);
     background-repeat: no-repeat;
 }
 
