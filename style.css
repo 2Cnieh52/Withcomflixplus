@@ -20,7 +20,7 @@ body {
     padding:0;
 }
 
-.principal {
+.container__principal {
     background-image:url(Design\ sem\ nome.png);
     background-repeat: no-repeat;
 }
@@ -54,4 +54,8 @@ body {
 .container__titulo {
     font-size: 28px;
     font-weight: 700;
+}
+
+.container__imagem {
+
 }
