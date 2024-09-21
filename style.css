@@ -20,9 +20,11 @@ body {
     padding:0;
 }
 
-.container__principal {
-    background-image:url(Design\ sem\ nome.png);
+.principal {
+    background-image:url(Design\ sem\ nome.png)
     background-repeat: no-repeat;
+    background-size: contain:
+
 }
 
 .container {
@@ -59,4 +61,8 @@ body {
 
 .container__imagem {
   margin: 1em o 2em 0;
+}
+
+.container_caixa {
+    margin: 0 6em;
 }
