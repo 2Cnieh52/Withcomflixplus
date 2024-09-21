@@ -21,8 +21,8 @@ body {
 }
 
 .principal {
-    background-image:url(Design\ sem\ nome.png)
-    background-repeat no-repeat;
+    background-image:url("Design\ sem\ nome.png")
+    
     background-size: contain;
 
 }
